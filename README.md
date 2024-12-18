@@ -30,7 +30,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://streak-stats.demolab.com?user=Dilki687&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img align="center" src="https://streak-stats.vercel.app/?user=dilki687&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&cache_seconds=300" height="220" alt="streak graph" />
 </p>
 
 
