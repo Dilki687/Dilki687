@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilki687" alt="dilki687" /></a> </p>
 
-- 🔭 I’m currently working on [Eazy-Eats](https://github.com/imeshiperera12/FoodOrdering)
+- 🔭 I’m currently working on [Microservices-based Food Ordering System](https://github.com/imeshiperera12/FoodOrdering)
 
 - 🌱 I’m currently learning **Java**
 
